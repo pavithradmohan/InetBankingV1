@@ -1,0 +1,4 @@
+[main] INFO  com.inetBanking.testCases.BaseClass  - URL is opened
+[main] INFO  com.inetBanking.testCases.BaseClass  - Entered username
+[main] INFO  com.inetBanking.testCases.BaseClass  - Entered password
+[main] INFO  com.inetBanking.testCases.BaseClass  - Test passed
